@@ -51,7 +51,7 @@ class Kata
 
   #
   # This iterator executes a block for every live cell.
-  # Here String#scan is used to search for '*' in every raw of the input grid.
+  # String#scan is used to search for '*' in every raw of the input grid.
   #
   def each_live
     @input.each_with_index do |s, y|
@@ -68,6 +68,9 @@ class Kata
   # 1. Any cell with exactly 3 neighbours survives.
   # 2. A cell with 2 neighbours survives only if it was alive.
   # 3. All other cells die.
+  #
+  # String#gsub! is used to substitute all counted numbers in @output with '*' or '.'.
+  # That will be the next generation of the grid.
   #
   def apply_rules
     @output.each_with_index do |s, y|
