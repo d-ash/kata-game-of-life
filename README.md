@@ -1,17 +1,12 @@
-# kata_game_of_life
-Ruby solution to http://www.codingdojo.org/cgi-bin/index.pl?KataGameOfLife
+# Kata "Game of Life"
 
------
+This is a small task, used by some companies for assessing developers.
 
-About this Kata
+Ruby solution.
 
-This was presented as a PreparedKata at XP2005, by Emmanuel Gaillot.
+It's not an object-oriented solution.
 
-Difficulty - medium
-
-Similar Katas - KataMinesweeper, KataReversi
-
-Problem Description
+# Problem Description
 
 This Kata is about calculating the next generation of Conway's game of life, given any starting position. See http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life for background.
 
@@ -48,12 +43,4 @@ Generation 2:
 ........
 ```
 
-The input format is similar to that in KataMinesweeper, and is easily parsed in most languages.
-
-Suggested Test Cases Make sure you have enough coverage of edge cases - where there are births and deaths at the edge of the grid.
-
-Comments from those who are working on this Kata
-
----
-
-One possible solution in Java: https://github.com/fabricejeannet/kataGameOfLife 
+Source: http://www.codingdojo.org/cgi-bin/index.pl?KataGameOfLife
