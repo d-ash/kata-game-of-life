@@ -4,9 +4,10 @@ This is a small task, used by some companies as a technical assignment for candi
 
 ## Approach
 
-I tried to come up with a simple and elegant solution. It's not a general framework, nor a library for this problem domain. There is no OOP, and it's not very readable either.
+I tried to come up with a simple and elegant solution. It's not a general framework, nor a library for this problem domain.  
+There is no OOP, and it's not very readable either.
 
-Consider this code just as a small script, not meant to be modified or integrated.
+Consider this code just as a small script, not meant to be modified or integrated into something.
 
 ## Problem Description
 
