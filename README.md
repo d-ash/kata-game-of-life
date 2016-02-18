@@ -1,12 +1,14 @@
 # Kata "Game of Life"
 
-This is a small task, used by some companies for assessing developers.
+This is a small task, used by some companies as a technical assignment for candidates.
 
-Ruby solution.
+## Approach
 
-It's not an object-oriented solution.
+I tried to come up with a simple and elegant solution. It's not a general framework, nor a library for this problem domain. There is no OOP, and it's not very readable either.
 
-# Problem Description
+Consider this code just as a small script, not meant to be modified or integrated.
+
+## Problem Description
 
 This Kata is about calculating the next generation of Conway's game of life, given any starting position. See http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life for background.
 
