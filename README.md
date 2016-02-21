@@ -7,7 +7,7 @@ This is a small task, used by some companies as a technical assignment for candi
 I tried to come up with a simple and elegant solution. It's not a general framework, nor a library for this problem domain.  
 There is no OOP, and it's not very readable either. Consider this code just as a small script, not meant to be modified or integrated into something.
 
-If you are looking for my object-oriented code, welcome to [Toy Robot](https://github.com/d-ash/toy-robot) (that's a different task though).
+If you feel more comfortable in the object-oriented paradigm, welcome to [Toy Robot](https://github.com/d-ash/toy-robot)(though it's a totally different puzzle).
 
 ## Problem Description
 
