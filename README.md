@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/d-ash/kata-game-of-life.svg?branch=master)](https://travis-ci.org/d-ash/kata-game-of-life)
 # Kata "Game of Life"
 
 This is a small task, used by some companies as a technical assignment for candidates.
